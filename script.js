@@ -86,7 +86,7 @@ const checkWord = (userWord, row) => {
   }
   if (userWord === correctWord) {
     processingLetters.forEach((processingLetter) => {
-      processingLetter.style.backgroundColor = "#807e8b";
+      processingLetter.style.backgroundColor = "#acd174";
     });
   }
   return true;
