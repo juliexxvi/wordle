@@ -5,7 +5,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Flexbox Keyboard</title>
+  <title>Wordle</title>
   <link rel="stylesheet" href="style.css">
 </head>
 
@@ -59,9 +59,21 @@
   </main>
   <section class="menus">
     <button class="additional-function" id="how-to-play">How to play</button>
+
     <button class="additional-function" id="hint">Hint</button>
     <button class="additional-function" id="skip">Skip</button>
+    <div id="myModal" class="modal">
+
+      <!-- Modal content -->
+      <div class="modal-content">
+        <span class="close">&times;</span>
+        <h2>HOW TO PLAY</h2>
+        <img src="https://i.imgur.com/MlEOasL.png" alt="How to play" width="500" height="600">
+      </div>
+
+    </div>
   </section>
+
   <section class="keyboard">
     <div class="row" id="row-0">
       <button class="key">q</button>
@@ -87,7 +99,7 @@
       <button class="key">l</button>
     </div>
     <div class="row" id="row-2">
-      <button class="key" id="enter">enter</button>
+      <button class="key" id="enter" disabled>enter</button>
       <button class="key">z</button>
       <button class="key">x</button>
       <button class="key">c</button>
