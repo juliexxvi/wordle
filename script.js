@@ -88,7 +88,7 @@ const checkWord = () => {
       }
 
       if (correctWordLetters[i] !== userWordLetters[i]) {
-        // Letter is correct but not in the right order
+        // Letter is correct but not in the right position
         processingLetters[i].style.backgroundColor = yellowColor;
         pressedKey.style.backgroundColor = yellowColor;
       }
@@ -130,10 +130,10 @@ skip.addEventListener("click", () => {
 
 // Modal
 // Get the modal
-var modal = document.getElementById("myModal");
+const modal = document.getElementById("myModal");
 
 // Get the <span> element that closes the modal
-var span = document.getElementsByClassName("close")[0];
+const span = document.getElementsByClassName("close")[0];
 
 // When the user clicks on the button, open the modal
 howToPlay.onclick = function () {
