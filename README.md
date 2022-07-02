@@ -22,7 +22,7 @@ The objective of the game is to unlock a secret 5-letter word. You only have six
 
 
 **Skip** - to reload the page if user cannot guess the correct or they want to play again
-<img alt="Userword" src="./Users-word.png)" />
+<img alt="Userword" src="./Users-word.png" />
 <img alt="Skip button" src="./Wordle-Skip.png" />
 
 ### 3. What's next?
