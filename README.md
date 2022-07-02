@@ -15,14 +15,15 @@ The objective of the game is to unlock a secret 5-letter word. You only have six
 ### 2. Functionality / features:
 
 **How to play** - a brief introduction about how to play the wordle game
-[How-to-play](How-to-play.png "How to play image")
+<img alt="How to play" src="./How-to-play.png" />
 
 **Hint** - showing a correct but not in the right position. User will need to guess where the correct position is.
-[Hint](Wordle-Hint.png "Hint button")
+<img alt="Hint button" src="./Wordle-Hint.png" />
+
 
 **Skip** - to reload the page if user cannot guess the correct or they want to play again
-[Userword](Users-word.png)
-[Skip](Wordle-Skip.png "Skip button")
+<img alt="Userword" src="./Users-word.png)" />
+<img alt="Skip button" src="./Wordle-Skip.png" />
 
 ### 3. What's next?
 
