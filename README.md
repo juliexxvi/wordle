@@ -16,11 +16,11 @@ The objective of the game is to unlock a secret 5-letter word. You only have six
 
 **How to play** - a brief introduction about how to play the wordle game
 <img alt="How to play" src="./How-to-play.png" />
-<img alt="Userword" src="./Users-word.png" />
+
 
 **Hint** - showing a correct but not in the right position. User will need to guess where the correct position is.
 <img alt="Hint button" src="./Wordle-Hint.png" />
-
+<img alt="Userword" src="./Users-word.png" />
 
 **Skip** - to reload the page if user cannot guess the correct or they want to play again
 
