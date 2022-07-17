@@ -10,7 +10,7 @@
 
 Over the past few weeks, people have been sharing tweets and posts showing a collection of small green and gray boxes. If you’ve come across those but don’t know what it’s all about – that’s Wordle. A free word-guessing game that’s available online.
 
-The objective of the game is to unlock a secret 5-letter word. You only have six attempts to do so and there’s a new puzzle available when you refresh the page. If you didn’t get it in the first six tries, you have to wait until the next day to try and redeem yourself.
+The objective of the game is to unlock a secret 5-letter word. You only have six attempts to do so and there’s a new puzzle available when you refresh the page. 
 
 ### 2. Functionality / features:
 
